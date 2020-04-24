@@ -8,3 +8,5 @@ ff454a
 
 sudo ls -l /etc/NetworkManager/system-connections/
 ls *Tech-Garage6-5G*
+
+test
